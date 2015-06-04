@@ -14,7 +14,8 @@
     "url": "https://github.com/troy0820/gulp-tutorial.git"
   },
   "keywords": [
-    "gulp"
+    "gulp",
+    "gulp-tutorial"
   ],
   "author": "Troy M. Connor",
   "license": "MIT",
