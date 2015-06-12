@@ -10,7 +10,7 @@ gulp.task('doit',function() {
 	console.log('This is the do it task');
 })
 
-gulp.task('default',['usedtobe','doit','newtask'])
+gulp.task('default',['usedtobe','doit','newtask','clean','html'])
 
 gulp.task('newtask',['doit'], function() {
 	console.log('This should print after the do it task');
