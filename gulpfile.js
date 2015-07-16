@@ -18,6 +18,6 @@ gulp.task('newtask',['doit'], function() {
 
 gulp.task('clean',function() {
 	del('build/*');
-	console.log('Deleted everything in directory build/');
+	console.log('clean finished');
 
 })
